@@ -1,4 +1,3 @@
-HEAD
-These are all the small small projects build using js
-These are my JavaScript projects.
-main
+# JavaScript projects
+
+A collection of small projects I built while practising JavaScript.
